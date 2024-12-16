@@ -1,0 +1,10 @@
+{
+    "symbol": "IBIT",
+    "secType": "OPT",
+    "exchange": "SMART",
+    "currency": "USD",
+    "lastTradeDateOrContractMonth": "-1",
+    "strike": -1,
+    "right": "-1",
+    "multiplier": "100"
+}
