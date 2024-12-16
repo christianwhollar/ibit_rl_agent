@@ -1,0 +1,11 @@
+gymnasium==1.0.0
+matplotlib==3.10.0
+numpy==2.2.0
+pandas==2.2.3
+plotly==5.24.1
+pytz==2024.2
+shiny==1.1.0
+shinybroker==0.6.24
+shinywidgets==0.3.3
+tensorflow==2.18.0
+tensorflow_intel==2.18.0
